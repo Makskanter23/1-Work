@@ -1,8 +1,8 @@
 ## Привет, Я `Макс`,
 # И это мое Портфолио: Инженер по тестированию. QA
 ## Немного о моих навыках:
-Работа в: *Jira, qase.io, Checkvist, Sitechco, Trello, Postman, Swagger,*  
-*SoapUI, Chrome DevTools, SQL, pgAdmin*
+Работа в: ``*Jira, qase.io, Checkvist, Sitechco, Trello, Postman, Swagger,*  
+*SoapUI, Chrome DevTools, SQL, pgAdmin*``
 
 # Проекты:
 ## 1. Продукт: Тест вкладки "расписание" для портала учителя в Skyeng
@@ -28,7 +28,7 @@
 Пароль: 1314151627
 
 
-``{about_me_brief}``
+
 
 # Контактная информация:  
 *Email:* chulkin.97@mail.ru
