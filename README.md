@@ -1,8 +1,7 @@
 ## Привет, Я Макс
 # И это мое Портфолио: Инженер по тестированию. QA
-## Нмного обо мне и моих навыках:
-*Jira, qase.io, Trello, Postman,Swagger,  
-
+## Немного обо мне и моих навыках:
+*Jira, qase.io, Trello, Postman,Swagger,*  
 *SoapUI, Chrome DevTools, SQL*
 
 # Проекты:
