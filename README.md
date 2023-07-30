@@ -3,6 +3,7 @@
 ## Нмного обо мне и моих навыках:
 *Jira, qase.io, Trello, Postman,Swagger,  
 
-SoapUI, Chrome DevTools, SQL*
+*SoapUI, Chrome DevTools, SQL*
+
 # Проекты:
 - Продукт: Тест вкладки "расписание" для портала учителя в Skyeng
