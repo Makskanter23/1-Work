@@ -1,8 +1,8 @@
 ## Привет, Я `Макс`,
 # И это мое Портфолио: Инженер по тестированию. QA
 ## Немного о моих навыках:
-Работа в: ``Jira``, ``qase.io``, ``Checkvist``, ``Sitechco``, Trello, Postman, Swagger,``  
-``SoapUI, Chrome DevTools, SQL, pgAdmin, Mockoon, Visual Studio Code, jMeter`` 
+Работа в: ``Jira``, ``qase.io``, ``Checkvist``, ``Sitechco``, ``Trello``, ``Postman``, ``Swagger,``  
+``SoapUI``, ``Chrome DevTools``, ``SQL``, ``pgAdmin``, ``Mockoon``, ``Visual Studio Code``, ``jMeter`` 
 [Здесь пара скринов](https://github.com/Makskanter23/my-portfolio/commit/aeed0502460984fb46c2710ceebaf184d1f5ec8f#commitcomment-123088779)
 
 # Проекты:
