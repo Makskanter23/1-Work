@@ -12,8 +12,8 @@
   - [x] Проведение тестирования
   - [x] Составление отчета о результатах тестирования  
 
-Ссылка на проект: https://bag-report2023.atlassian.net/l/cp/p89UERLz
-Логин:  chulkin.97@mail.ru
+Ссылка на проект: https://bag-report2023.atlassian.net/l/cp/p89UERLz  
+Логин:  chulkin.97@mail.ru  
 Пароль:  1314151627
 
 
