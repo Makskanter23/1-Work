@@ -44,7 +44,6 @@
 Требуется доработка и исправление найденных багов.
   
 
-
 # Контактная информация:  
 *Email:* chulkin.97@mail.ru  
 *Telegram:* https://t.me/KanterMaks
