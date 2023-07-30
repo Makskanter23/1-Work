@@ -1,8 +1,8 @@
-## Привет, Я Макс
+## Привет, Я `Макс`,
 # И это мое Портфолио: Инженер по тестированию. QA
 ## Немного о моих навыках:
 Работа в: *Jira, qase.io, Checkvist, Sitechco, Trello, Postman, Swagger,*  
-*SoapUI, Chrome DevTools, SQL*
+*SoapUI, Chrome DevTools, SQL, pgAdmin*
 
 # Проекты:
 ## 1. Продукт: Тест вкладки "расписание" для портала учителя в Skyeng
